@@ -1,0 +1,1 @@
+disini direktori log_test
